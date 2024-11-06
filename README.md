@@ -1,0 +1,2 @@
+# GenomicsEngland-VariantBurdenFramework
+This workflow quantifies the burden of pathogenic variants at both single-variant and gene levels within the Genomics England research environment. Designed to leverage VCF data, it identifies and aggregates clinically significant variants, facilitating analyses that pinpoint individual or cumulative variant impacts across genes, with particular relevance to clinical and population-level studies.
