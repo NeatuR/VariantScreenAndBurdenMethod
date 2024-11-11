@@ -1,0 +1,3 @@
+path/to/the/vcf/file.vcf.gz
+path/to/another/vcf/file.vcf.gz
+path/to/another/vcf/file.vcf.gz
