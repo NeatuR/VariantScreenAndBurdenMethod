@@ -112,7 +112,7 @@ Calculate p-values.
 Fisher.R
 ```
 
-### STEP 4.
+### STEP 5.
 Visualise the results (manhatan plot).
 * change the main directory (setwd)
 * open R Studio to create the graphs
