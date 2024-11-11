@@ -2,7 +2,13 @@
 # RuX - Regions under eXploraton - Workflow 
 
 # GenomicsEngland-VariantScreenAndBurdenMethod
-This dual method is designed to work within the Genomics England environment, offering a flexible and efficient approach for variant analysis. It leverages the Variant Effect Predictor (VEP) to annotate variants, with the user providing a list of individual VCF files, as well as user-defined genomic regions for memory efficiency. The method includes two key components: variant screening and burden testing. The first part filters variants based on user-defined VEP filters, providing a list of variants of interest for each individual. The second part assesses the accumulation of pathogenic or rare variants across the selected genomic regions, enabling the identification of common alleles within a cohort. This tool is intended to support genetic research and clinical diagnostics, allowing for targeted analysis without the need for pre-filtered variant lists.
+This dual method is designed to work within the Genomics England environment, offering a flexible and efficient approach for variant analysis. It leverages the Variant Effect Predictor (VEP) to annotate variants, with the user providing a list of individual VCF files, as well as user-defined genomic regions for memory efficiency. 
+
+The method includes two key components: variant screening and burden testing. 
+* The first part filters variants based on user-defined VEP filters, providing a list of variants of interest for each individual.
+* The second part assesses the accumulation of pathogenic or rare variants across the selected genomic regions, enabling the identification of common alleles within a cohort.
+
+This tool is intended to support genetic research and clinical diagnostics, allowing for targeted analysis without the need for pre-filtered variant lists.
 
 <hr>
 
