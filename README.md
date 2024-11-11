@@ -47,7 +47,7 @@ bsub < filter_VEP.sh
 ```
 
 
-# USE CASE 2: Single-variant tests
+# USE CASE 2: Single-variant Analysis
 This evaluates the accumulation, or burden, of rare or pathogenic variants within specified genomic regions. It requires a `control` cohort. 
 
 ### STEP 1.
