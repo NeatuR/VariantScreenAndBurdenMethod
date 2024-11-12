@@ -37,6 +37,7 @@ bsub < cut_chrom.sh
 This is the step with the longest running time; if you have something else to get done, use this time.
 Probably due to singularity I can't run it from the `1_variantExtract`  directory
 * go a folder back (just outside `1_variantExtract`)
+* VEP needs .SIF file (if Singularity is used)
 
 ```
 bsub < VEPjobs.sh
