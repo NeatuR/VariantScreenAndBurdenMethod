@@ -64,6 +64,7 @@ Create a `control` and a `cases` directory with a similar organisation as specif
  
 ### STEP 2.
 This makes use of the final output of the `USECASE 1` from both cases and controls to generate a file counting the number of cases and controls that carry pathogenic variants at allele level. Then it prepares it for Fisher Test.
+* directory: cases/2_association/allele_level
 * the HPC is not needed for this script but it is recommended
 * make sure to change the variables accoridingly
 ```
@@ -93,6 +94,7 @@ Create a `control` and a `cases` directory with a similar organisation as specif
 
 ### STEP 2. 
 It uses the output of `USE CASE 1` to count the number of cases and controls with pathogenic/rare variants wihtin user-defined genomic regions.
+* directory: cases/2_association/gene_level
 * this can run in R Studio
 * needs to run two times: one for cases and one for controls
 * change the input and ouput as desired for every run
