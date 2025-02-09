@@ -1,5 +1,5 @@
  Welcome to:
-# RuX - Regions under eXploraton - Workflow 
+# RuX - Regions Under eXploraton - Workflow 
 
 # GenomicsEngland-VariantScreenAndBurdenMethod
 This dual method is designed to work within the Genomics England environment, offering a flexible and efficient approach for variant analysis. It leverages the Variant Effect Predictor (VEP) to annotate variants, with the user providing a list of individual VCF files, as well as user-defined genomic regions for memory efficiency. 
